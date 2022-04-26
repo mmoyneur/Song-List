@@ -1,0 +1,11 @@
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.mainForm.resources
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.Properties.Resources.resources
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\bin\Debug\Moyneur_CourseProject_part1.exe.config
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\bin\Debug\Moyneur_CourseProject_part1.exe
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\bin\Debug\Moyneur_CourseProject_part1.pdb
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.exe
+C:\Users\Michael\Desktop\CEIS209\Moyneur_CourseProject_part1\Moyneur_CourseProject_part1\obj\Debug\Moyneur_CourseProject_part1.pdb
